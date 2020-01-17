@@ -20,11 +20,21 @@ DEL2 - Terminaländring till BASH
 
 7. Kopiera in ("terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",)
 
+DEL3 - Hur det görs i Github
+
+8. Logga in på Github och gör en ny Repository
+
+9. Tryck sedan på "Clone or Download och kopiera https - länken
+
+10. Öppna sedan Terminalen och kopiera in "git remote add origin https://github.com/user/repo.git", blir en annan länk såklart än denna
+
 DEL3 - Pusha till Git
 
-8. Gå in på Source Control och tryck på "..." och bläddra ner till "Stage All Changes"
+11. Gå in på Source Control och tryck på "..." och bläddra ner till "Stage All Changes"
 
-9. Därefter tryck på "..." och "Commit All" och skriv in ett lämpligt meddelande.
+12. Därefter tryck på "..." och "Commit All" och skriv in ett lämpligt meddelande.
 
-10. Sedan tryck på "..." igen och "
+13. Skriv sedan in "git push -f origin master" första gången
+
+14. Logga in sedan på Git för att se resultat
 
