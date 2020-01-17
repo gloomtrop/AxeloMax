@@ -1,0 +1,28 @@
+Länk att första collab på github: https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
+
+Hur man gör med Github i Visual Studio Code:
+
+DEL1 - Länka folder till Github
+
+1. Ladda ner senaste versionen av Github
+
+2. Öppna en folder för att arbeta på
+
+3. Gå in på Source Control och tryck på "+" - tecknet 
+
+4. Välj seda Workplace folder, den folder du har öppnat
+
+DEL2 - Terminaländring till BASH
+
+5. Tryck sedan på Settings (längst ner i vänstra hörnet)
+
+6. Därefter sök på "terminal>integrated>Env" och tryck på Windows "Edit settings.json"
+
+7. Kopiera in ("terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",)
+
+DEL3 - Pusha till Git
+
+8. Gå in på Source Control och tryck på "..." och bläddra ner till "Stage All Changes"
+
+9. Därefter 
+
