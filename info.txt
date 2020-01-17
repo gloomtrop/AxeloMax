@@ -6,7 +6,7 @@ DEL1 - Länka folder till Github
 
 1. Ladda ner senaste versionen av Github
 
-2. Öppna en folder för att arbeta på
+2. Öppna ett nytt fönster och en folder för att arbeta på
 
 3. Gå in på Source Control och tryck på "+" - tecknet 
 
