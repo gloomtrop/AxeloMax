@@ -34,7 +34,7 @@ DEL3 - Pusha till Git
 
 12. Därefter tryck på "..." och "Commit All" och skriv in ett lämpligt meddelande.
 
-13. Skriv sedan in "git push -f origin master" första gången
+13. Skriv sedan in "git push -f origin master" första gången i terminalen
 
 14. Logga in sedan på Git för att se resultat
 
