@@ -1,4 +1,4 @@
-Länk att första collab på github: https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
+Länk att förstå collab på github: https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
 
 Hur man gör med Github i Visual Studio Code:
 
