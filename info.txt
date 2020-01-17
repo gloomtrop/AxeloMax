@@ -1,5 +1,12 @@
 Länk att förstå collab på github: https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67
 
+Länk på Youtube om VC code StarterPack (Windows): För att implementera git är tiden 47:44
+https://www.youtube.com/watch?v=-nh9rCzPJ20&t=932s 
+
+Länk på Youtube om VC code StarterPack (Mac): För att implementera git är tiden 49:05
+https://www.youtube.com/watch?v=06I63_p-2A4
+
+
 Hur man gör med Github i Visual Studio Code:
 
 DEL1 - Länka folder till Github
