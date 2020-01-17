@@ -12,7 +12,7 @@ DEL1 - Länka folder till Github
 
 4. Välj seda Workplace folder, den folder du har öppnat
 
-DEL2 - Terminaländring till BASH
+DEL2 - Terminaländring till BASH (För Windows)
 
 5. Tryck sedan på Settings (längst ner i vänstra hörnet)
 
