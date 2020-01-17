@@ -24,5 +24,7 @@ DEL3 - Pusha till Git
 
 8. Gå in på Source Control och tryck på "..." och bläddra ner till "Stage All Changes"
 
-9. Därefter tryck på "..." 
+9. Därefter tryck på "..." och "Commit All" och skriv in ett lämpligt meddelande.
+
+10. Sedan tryck på "..." igen och "
 
