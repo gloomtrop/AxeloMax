@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=06I63_p-2A4
 
 Hur man gör med Github i Visual Studio Code:
 
-DEL1 - Länka folder till Github
+DEL1 - Länka folder till Git
 
 1. Ladda ner senaste versionen av Github
 
